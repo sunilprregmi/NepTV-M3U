@@ -19,7 +19,7 @@ This repository maintains an extensive collection of M3U playlists featuring Nep
 
 1. Copy the raw M3U URL:
    ```
-   https://raw.githubusercontent.com/sunilprregmi/NepTV-M3U/main/nepali.m3u
+   https://github.com/sunilprregmi/NepTV-M3U/raw/main/playlist.m3u
    ```
 
 2. Use this URL in your favorite IPTV player (Perfect Player, VLC, etc.)
