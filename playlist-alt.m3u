@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="101" tvg-name="ntv" tvg-logo="https://ntv.newitventure.com//images/channel_logos/1.png" group-title="NepTV GH", NTV National
+https://np5.sunilprasad.com.np/ntv/ntv/playlist.m3u8
+#EXTINF:-1 tvg-id="102" tvg-name="ntv-plus" tvg-logo="https://ntv.newitventure.com//images/channel_logos/2.png" group-title="NepTV GH", NTV Plus
+https://np5.sunilprasad.com.np/ntv/ntv-plus/playlist.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="ntv-news" tvg-logo="https://ntv.newitventure.com//images/channel_logos/3.png" group-title="NepTV GH", NTV News
+https://np5.sunilprasad.com.np/ntv/ntv-news/playlist.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="ntv-kohalpur" tvg-logo="https://ntv.newitventure.com//images/channel_logos/4.png" group-title="NepTV GH", NTV Kohalpur
+https://np5.sunilprasad.com.np/ntv/ntv-kohalpur/playlist.m3u8
+#EXTINF:-1 tvg-id="105" tvg-name="ntv-itahari" tvg-logo="https://ntv.newitventure.com//images/channel_logos/600.png" group-title="NepTV GH", NTV Itahari
+https://np5.sunilprasad.com.np/ntv/ntv-itahari/playlist.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="abc-news-nepal" tvg-logo="https://tvtoday.nettvnepal.com.np/images/channel_logos/608.png" group-title="NepTV GH", ABC News
+https://np5.sunilprasad.com.np/tvtoday/abc-news-nepal/playlist.m3u8
+#EXTINF:-1 tvg-id="107" tvg-name="tv-today-hd" tvg-logo="https://tvtoday.nettvnepal.com.np/images/channel_logos/1.png" group-title="NepTV GH", TV Today HD
+https://np5.sunilprasad.com.np/tvtoday/tv-today-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="tv-one-hd" tvg-logo="https://tvtoday.nettvnepal.com.np/images/channel_logos/2.png" group-title="NepTV GH", TV One HD
+https://np5.sunilprasad.com.np/tvtoday/tv-one-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="109" tvg-name="tv-world-hd" tvg-logo="https://tvtoday.nettvnepal.com.np/images/channel_logos/3.png" group-title="NepTV GH", TV World HD
+https://np5.sunilprasad.com.np/tvtoday/tv-world-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="krishi-tv" tvg-logo="https://play-lh.googleusercontent.com/MrOX4faMzVc0yP9GjzCHd1lA321GN3tPY1zId_NycIlXyrH6wrMo_Wx73UKph9EXa9vj" group-title="NepTV GH", Krishi TV
+https://np5.sunilprasad.com.np/tvtoday/krishi-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="111" tvg-name="indigenous-tv" tvg-logo="https://play-lh.googleusercontent.com/BdK9HBpXfGgB0q8fx4fM589zBvMJwI4acN-AxjkATU7J4qppjubLrpYfBh5ExU7mkTXO" group-title="NepTV GH", Indigenous TV
+https://np5.sunilprasad.com.np/tvtoday/indigenous-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="tv-filmy" tvg-logo="https://play-lh.googleusercontent.com/K-HwdME_SqAeV5S1prwrExEZzAJnorsxFzlRDXU69OuxzvXNx3mmTSthO8FJl8oA1A" group-title="NepTV GH", TV Filmy
+https://np5.sunilprasad.com.np/tvtoday/tv-filmy/playlist.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="business-tv" tvg-logo="https://play-lh.googleusercontent.com/ZUS27YTr1mAfzEpnuz45q0QF0TYtq1BPhi1LgXq9C0PhGRfaEb0RQFRIjfI7h_kkYSk" group-title="NepTV GH", BTV Business
+https://np5.sunilprasad.com.np/tvtoday/business-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="114" tvg-name="sagarmatha-tv" tvg-logo="https://api.eknepal.com/images/tv/sagarmathatv.png" group-title="NepTV GH", Sagarmatha
+https://np5.sunilprasad.com.np/tvtoday/sagarmatha-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="115" tvg-name="kantipur-hd" tvg-logo="https://play-lh.googleusercontent.com/CQSmPpi6-l-S44IER_44ytPqQ-V4CbCPWspMJGNp3rYcD6VIEdiBenpMBB0DAi2Vow" group-title="NepTV GH", Kantipur HD
+https://np5.sunilprasad.com.np/kantipur/kantipur-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="116" tvg-name="nepal-1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Nepal-1_TV_black.png" group-title="NepTV GH", Nepal 1
+https://np5.sunilprasad.com.np/yupp/nepal-1/playlist.m3u8
